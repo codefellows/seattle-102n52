@@ -10,6 +10,8 @@ In this course you will build a strong software development foundation and learn
 
 Instructor: Adrienne Easton,  email: adrienne@codefellows.com, slack: @adrienne
 Teaching Assistent: Aliya Summers, slack: @aliya
+Teaching Assistent: Alistair Blake, slack @alistair
+
 
 **[Link to Canvas Assignments](https://canvas.instructure.com/courses/2263446)** 
 
