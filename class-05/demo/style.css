@@ -1,0 +1,81 @@
+/* header */
+
+body {
+  background-color: lightgreen;
+  color: rgb(1, 39, 1);
+  font-family: 'Courier New', Courier, monospace;
+  margin: 0px auto;
+  width: 960px;
+}
+
+header {
+  height: 200px;
+}
+
+header img {
+  float: left;
+}
+
+h1 {
+  text-align: center;
+
+}
+
+nav {
+  float: right;
+}
+
+header li {
+  display: inline-block;
+  width: 100px;
+  background-color: green;
+  padding: 5px;
+  text-align: center;
+  border-radius: 25px;
+  margin: 5px;
+  border: 1px solid black;
+  color: white;
+}
+
+/* main */
+
+main img {
+  width: 300px;
+}
+
+section {
+  width: 940px;
+  text-align: center;
+}
+
+article {
+  width: 300px;
+  display: inline-block;
+}
+
+/* footer */
+
+footer {
+  align-content: center;
+}
+
+footer ul {
+  width: 100px; 
+  display: inline-block;
+  margin-left: 60px;
+}
+
+footer li {
+  width: 100px;
+  padding: 5px;
+  margin: 5px;
+  text-align: center;
+  border-radius: 25px;
+  border: 1px solid black;
+  color: white;
+  background-color: green;
+}
+
+footer p {
+  float: right;
+}
